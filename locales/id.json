@@ -1,0 +1,22 @@
+{
+    "title_show_self_id_card": "View Own",
+    "description_show_self_id_card": "Click to view your own ID card",
+    "title_show_around_id_card": "Show to Nearby Players",
+    "description_show_around_id_card": "Click to show your ID to nearby people",
+    "title_show_target_id_card": "Show to Player",
+    "description_show_target_id_card": "Click to show your ID to another player",
+    "description_context_target_id_card": "Click to show",
+    "notify_error_target_id_card": "No one is nearby",
+    "title_showcontext_target_id_card": "Nearby People",
+    "notify_error_enough_item": "You don't have any A4 paper",
+
+    "title_input_label_dialog_menu_printer": "Label",
+    "description_input_label_dialog_menu_printer": "Permission Document",
+    "title_input_link_image_dialog_menu_printer": "Image Link",
+    "description_input_link_image_dialog_menu_printer": "Enter the image link to print",
+    "title_input_number_amount_printer_dialog_menu_printer": "Print Amount",
+    "description_input_number_amount_printer_dialog_menu_printer": "Enter the number of copies to print",
+    "title_input_black_and_white_dialog_menu_printer": "Black & White",
+
+    "title_target_printer": "Printer"
+}

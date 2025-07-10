@@ -1,0 +1,22 @@
+{
+    "title_show_self_id_card": "Melihat Sendiri",
+    "description_show_self_id_card": "Klik untuk melihat kartu sendiri",
+    "title_show_around_id_card": "Tunjukan Ke Sekitar Player",
+    "description_show_around_id_card": "Klik untuk menunjukan ke sekitar orang lain",
+    "title_show_target_id_card": "Tunjukan Ke Player",
+    "description_show_target_id_card": "Klik untuk menunjukan orang lain",
+    "description_context_target_id_card": "Klik untuk menunjukan",
+    "notify_error_target_id_card": "Tidak ada orang di sekitar kamu",
+    "title_showcontext_target_id_card": "Orang Disekitar",
+    "notify_error_enough_item": "Kamu tidak memiliki kertas HVS",
+
+    "title_input_label_dialog_menu_printer": "Label",
+    "description_input_label_dialog_menu_printer": "Dokumenn Perizinan",
+    "title_input_link_image_dialog_menu_printer": "Link Image",
+    "description_input_link_image_dialog_menu_printer": "Masukkan link image untuk diprint",
+    "title_input_number_amount_printer_dialog_menu_printer": "Jumlah Print",
+    "description_input_number_amount_printer_dialog_menu_printer": "Masukkan jumlah hasil yang ingin di print",
+    "title_input_black_and_white_dialog_menu_printer": "Hitam Putih",
+
+    "title_target_printer": "Printer"
+}
